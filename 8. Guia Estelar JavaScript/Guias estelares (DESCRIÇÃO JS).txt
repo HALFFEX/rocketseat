@@ -1,0 +1,1 @@
+Enquanto o HTML e CSS definem a parte estrutural e visual da aplicação, o JavaScript traz vida e interatividade à página.
