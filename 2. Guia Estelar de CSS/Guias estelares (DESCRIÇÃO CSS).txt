@@ -1,0 +1,1 @@
+O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, Shorthand, funções, DevTools e vendor prefixes.

@@ -1,0 +1,26 @@
+#my-title,
+#my-title strong {
+    color: gray;
+}
+
+.title {
+    color: red;
+}
+
+q::before {
+    content: "«";
+    color: blue;
+}
+
+q::after {
+    content: "»";
+    color: tomato;
+}
+
+h1 {
+    color: blue !important;
+}
+
+* {
+    color: green;
+}
